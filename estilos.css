@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(221, 227, 233);
+    background: linear-gradient(to right, #ecebe9,#7395bb);
+}
+.bg{
+    background-image: url(imagenes/manocel.jpg);
+    background-position:center center;
+}
